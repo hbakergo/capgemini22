@@ -1,12 +1,12 @@
-#DESAFIO DE PROGRAMAÇÃO CAPGEMINI
+<h1>DESAFIO DE PROGRAMAÇÃO CAPGEMINI</h1>
 
 <h2>Tecnologias utilizadas:</h2>
-Spring Tool Suite 4 (STS)
-Java 11
-Junit 4
+->Spring Tool Suite 4 (STS)<br>
+->Java 11<br>
+->Junit 4<br>
 
 
-<h2>========================QUESTÃO 01========================</h2>
+<h2>==============QUESTÃO 01==============</h2>
 
 <h3>Instruções para rodar QUESTÃO 01</h3>
 
@@ -26,7 +26,7 @@ Junit 4
 
 OBS: No STS caso seja necessário avaliar/testar os "testes unitários", deverá abrir a classe LadderTest e clicar no menu Run -> Run as -> JUnit Test
 
-<h2>========================QUESTÃO 02========================</h2>
+<h2>==============QUESTÃO 02==============</h2>
 
 <h3>Instruções para rodar QUESTÃO 02</h3>
 
@@ -46,7 +46,7 @@ OBS: No STS caso seja necessário avaliar/testar os "testes unitários", deverá ab
 
 OBS: No STS caso seja necessário avaliar/testar os "testes unitários", deverá abrir a classe PasswordTest e clicar no menu Run -> Run as -> JUnit Test
 
-<h2>========================QUESTÃO 03========================</h2>
+<h2>==============QUESTÃO 03==============</h2>
 
 <h3>Instruções para rodar QUESTÃO 03</h3>
 
